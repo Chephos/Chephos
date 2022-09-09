@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Charles-Abu Efosa</h1>
-<h3 align="center">An inquisitive Django developer</h3>
+<h1 align="center">Hi 👋, I'm Charles-abu Efosa</h1>
+<h3 align="center">Hi there, and welcome to my GitHub repository. I am a curious backend developer who is currently learning Python and implementing solutions with Django. I am an autodidact who enjoys reading and collaborating with others in the industry. I am currently looking for internships and entry-level jobs.</h3>
 
 <p align="left"> <a href="https://twitter.com/abuefosa" target="blank"><img src="https://img.shields.io/twitter/follow/abuefosa?logo=twitter&style=for-the-badge" alt="abuefosa" /></a> </p>
+
+- 🔭 I’m currently working on [Olofofo-News](http://Olofofo-news.herokuapp.com)
 
 - 🌱 I’m currently learning **Django, more python and new technologies**
 
@@ -25,3 +27,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chephos&show_icons=true&locale=en&layout=compact" alt="chephos" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chephos&" alt="chephos" /></p>
+
