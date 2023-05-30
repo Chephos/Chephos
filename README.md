@@ -3,7 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/abuefosa" target="blank"><img src="https://img.shields.io/twitter/follow/abuefosa?logo=twitter&style=for-the-badge" alt="abuefosa" /></a> </p>
 
-- 🔭 I’m currently working on [Olofofo-News](http://Olofofo-news.herokuapp.com)
 
 - 🌱 I’m currently learning **Django, more python and new technologies**
 
